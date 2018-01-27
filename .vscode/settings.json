@@ -1,6 +1,0 @@
-{
-    "terminal.integrated.env.windows": {
-        "PATH": "C:\\Users\\dbrondy\\.platformio\\penv\\Scripts;C:\\Users\\dbrondy\\.platformio\\penv;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\WinMerge;C:\\Users\\dbrondy\\AppData\\Local\\Programs\\Python\\Python36-32;C:\\Users\\dbrondy\\AppData\\Local\\Programs\\Python\\Python36-32\\Scripts;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\WinMerge;C:\\Users\\dbrondy\\AppData\\Local\\Programs\\Python\\Python36-32;C:\\Users\\dbrondy\\AppData\\Local\\Programs\\Python\\Python36-32\\Scripts",
-        "PLATFORMIO_CALLER": "vscode"
-    }
-}
