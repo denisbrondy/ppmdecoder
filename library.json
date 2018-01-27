@@ -1,0 +1,11 @@
+{
+    "name": "PPM Decoder",
+    "keywords": "Pulse position modulation decoder, RC radio",
+    "description": "A library to decode PPM radio signal",
+    "authors":
+    {
+        "name": "Denis BRONDY"
+    },
+    "version": "0.0.2",
+    "frameworks": "arduino"
+}
